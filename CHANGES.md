@@ -29,4 +29,3 @@ For example, psl.publicsuffix() now accepts `str` or `Tuple[bytes, ...]`.
 
 The last version works on Python 2.7
 
-
